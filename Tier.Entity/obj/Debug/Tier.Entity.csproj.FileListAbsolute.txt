@@ -1,0 +1,14 @@
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Entity\bin\Debug\Tier.Entity.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Entity\bin\Debug\Tier.Entity.pdb
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Entity\obj\Debug\Tier.Entity.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Entity\obj\Debug\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\bin\Debug\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\bin\Debug\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\obj\Debug\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\obj\Debug\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\obj\Debug\Tier.Entity.csprojResolveAssemblyReference.cache
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Entity\bin\Debug\Tier.Entity.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Entity\bin\Debug\Tier.Entity.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Entity\obj\Debug\Tier.Entity.csprojResolveAssemblyReference.cache
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Entity\obj\Debug\Tier.Entity.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Entity\obj\Debug\Tier.Entity.pdb

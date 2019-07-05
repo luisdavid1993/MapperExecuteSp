@@ -1,0 +1,33 @@
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\Tier.Data.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\Tier.Data.pdb
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\AutoMapper.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\DynamicMap.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\Tier.Entity.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\Tier.Entity.pdb
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\AutoMapper.pdb
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\AutoMapper.xml
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\obj\Debug\Tier.Data.csprojResolveAssemblyReference.cache
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\obj\Debug\Tier.Data.recursos.TierKeys.resources
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\obj\Debug\Tier.Data.csproj.GenerateResource.Cache
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\obj\Debug\Tier.Data.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Data\obj\Debug\Tier.Data.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.csprojResolveAssemblyReference.cache
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.recursos.TierKeys.resources
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.csproj.GenerateResource.Cache
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Debug\Tier.Data.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Debug\Tier.Data.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Debug\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Debug\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\bin\Debug\Tier.Data.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\bin\Debug\Tier.Data.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\bin\Debug\Tier.Entity.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\bin\Debug\Tier.Entity.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.csprojResolveAssemblyReference.cache
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.recursos.TierKeys.resources
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.csproj.GenerateResource.Cache
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Data\obj\Debug\Tier.Data.pdb

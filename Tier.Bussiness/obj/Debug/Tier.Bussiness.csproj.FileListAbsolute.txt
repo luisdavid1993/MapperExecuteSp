@@ -1,0 +1,27 @@
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\bin\Debug\Tier.Bussiness.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\bin\Debug\Tier.Bussiness.pdb
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\bin\Debug\Tier.Data.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\bin\Debug\Tier.Entity.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\bin\Debug\Tier.Data.pdb
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\bin\Debug\Tier.Entity.pdb
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\obj\Debug\Tier.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\obj\Debug\Tier.Bussiness.dll
+C:\Users\martinezluir\Documents\Visual Studio 2015\Projects\WebApplication1\Tier.Bussiness\obj\Debug\Tier.Bussiness.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\obj\Debug\Tier.Bussiness.csprojResolveAssemblyReference.cache
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Bussiness.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Bussiness.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Data.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Data.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\obj\Debug\Tier.Bussiness.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\obj\Debug\Tier.Bussiness.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Bussiness.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Bussiness.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Data.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Entity.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Data.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\bin\Debug\Tier.Entity.pdb
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\obj\Debug\Tier.Bussiness.csprojResolveAssemblyReference.cache
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\obj\Debug\Tier.Bussiness.dll
+D:\martinezluir\MRLD\Proyectos Utiles\Manejo de sql server\UltimaWebApi\Tier.Bussiness\obj\Debug\Tier.Bussiness.pdb

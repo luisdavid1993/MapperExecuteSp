@@ -1,0 +1,4 @@
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\bin\Release\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\bin\Release\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\obj\Release\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Entity\obj\Release\Tier.Entity.pdb

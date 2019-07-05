@@ -1,0 +1,9 @@
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\obj\Release\Tier.Bussiness.csprojResolveAssemblyReference.cache
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Release\Tier.Bussiness.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Release\Tier.Bussiness.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Release\Tier.Data.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Release\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Release\Tier.Data.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\bin\Release\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\obj\Release\Tier.Bussiness.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Bussiness\obj\Release\Tier.Bussiness.pdb

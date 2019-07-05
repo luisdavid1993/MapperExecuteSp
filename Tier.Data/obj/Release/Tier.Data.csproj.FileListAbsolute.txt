@@ -1,0 +1,9 @@
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Release\Tier.Data.csprojResolveAssemblyReference.cache
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Release\Tier.Data.recursos.TierKeys.resources
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Release\Tier.Data.csproj.GenerateResource.Cache
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Release\Tier.Data.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Release\Tier.Data.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Release\Tier.Entity.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\bin\Release\Tier.Entity.pdb
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Release\Tier.Data.dll
+D:\MRLD\Proyectos Utiles\UltimaWebApi\Tier.Data\obj\Release\Tier.Data.pdb
